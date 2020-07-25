@@ -1,6 +1,7 @@
 # Hi there 👋 
 
 # I'm Pedro Lisboa.
+[![HitCount](http://hits.dwyl.com/pedro-lisboa/pedro-lisboa.svg)](http://hits.dwyl.com/pedro-lisboa/pedro-lisboa)
 
 ### English
 
