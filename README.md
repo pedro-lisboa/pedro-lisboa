@@ -8,7 +8,7 @@
 - 🌱 I’m currently improving my skills in React, React Native and Node.js.
 - 👯 I’m looking to collaborate on the Dev Community.
 - :question: Any questions feel free to get in touch.
-- 📫 How to reach me: https://www.linkedin.com/in/pedro-lbrt/ ou pegu_lisboa@hotmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/pedro-lbrt/ or pegu_lisboa@hotmail.com
 - :earth_americas: I'm from Volta Redonda, RJ
 
 - ⚡ Fun fact: My dream is to move to São Paulo and work in a company that values the well-being of its employees
