@@ -4,7 +4,7 @@
 
 ### English
 
-- 🔭 I’m currently working at Clearsale.
+- 🔭 I’m currently working at Neon Pagamentos SA.
 - 🌱 I’m currently improving my skills in .Net Core, DevOps.
 - 👯 I’m looking to collaborate on the Dev Community.
 - :question: Any questions feel free to get in touch.
@@ -13,7 +13,7 @@
 
 ### Português
 
-- 🔭 Atualmente, estou trabalhando na Clearsale.
+- 🔭 Atualmente, estou trabalhando na Neon Pagamentos SA.
 - 🌱 Atualmente, estou aprimorando minhas habilidades em .Net Core, DevOps.
 - 👯 Estou procurando colaborar na comunidade de desenvolvedores.
 - :question: Qualquer dúvida não hesite em entrar em contato.
