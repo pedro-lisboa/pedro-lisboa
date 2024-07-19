@@ -1,25 +1,34 @@
-# Hi there 👋 
+# Hi there 👋
 
 ## I'm Pedro Lisboa
 
-### English
+Welcome to my GitHub profile! I'm a Senior Systems Analyst with a focus on fraud prevention at BMG Bank. My work involves using a variety of technologies to create secure and efficient systems. I am passionate about continuous learning and sharing my knowledge with the developer community.
 
-- 🔭 I’m currently working as a Senior Systems Analyst in the Fraud Prevention team at BMG Bank.
-- 🌱 I’m currently improving my skills in .NET Core, DevOps, AWS, and cloud computing.
-- 👯 I’m looking to collaborate with the Dev Community and contribute to exciting projects.
-- 🧑‍🏫 I have experience mentoring new developers and leading technical decisions.
-- 📈 I work with technologies such as C#, Node.js, SQL, MongoDB, Redis, Kafka, RabbitMQ, and Kinesis.
-- 💬 Any questions? Feel free to get in touch.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedro-lbrt/) or pegu_lisboa@hotmail.com
-- 🌍 I'm from Volta Redonda, RJ
+### About Me
 
-### Português
+- 🔭 **Current Role:** Senior Systems Analyst at BMG Bank
+- 🌱 **Learning:** .NET Core, DevOps, AWS, Cloud Computing
+- 👯 **Looking to Collaborate On:** Open source projects and community-driven initiatives
+- 🧑‍🏫 **Mentorship:** Experience in training new developers and leading technical decisions
+- 📈 **Technologies I Use:** C#, Node.js, SQL, MongoDB, Redis, Kafka, RabbitMQ, Kinesis
+- 💬 **Ask me About:** System development, cloud solutions, data management, and real-time data processing
+- 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/pedro-lbrt/) | pegu_lisboa@hotmail.com
+- 🌍 **Location:** Volta Redonda, RJ, Brazil
 
-- 🔭 Atualmente, estou trabalhando como Analista Sênior de Sistemas no time de Prevenção a Fraude no Banco BMG.
-- 🌱 Atualmente, estou aprimorando minhas habilidades em .NET Core, DevOps, AWS e computação em nuvem.
-- 👯 Estou procurando colaborar na comunidade de desenvolvedores e contribuir para projetos interessantes.
-- 🧑‍🏫 Tenho experiência em treinar novos desenvolvedores e tomar decisões técnicas.
-- 📈 Trabalho com tecnologias como C#, Node.js, SQL, MongoDB, Redis, Kafka, RabbitMQ e Kinesis.
-- 💬 Qualquer dúvida? Não hesite em entrar em contato.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/pedro-lbrt/) ou pegu_lisboa@hotmail.com
-- 🌍 Eu sou de Volta Redonda, RJ
+### Projects & Achievements
+
+- **Restructuring Current Account Processes:** Collaborated with over 30 squads to reformulate the account opening process.
+- **Transitional Accounts:** Organized accounts in line with Central Bank of Brazil regulations.
+- **Judicial Blocking:** Gained deep understanding of the bank's judicial blocking process.
+- **Automated Loan Transfers:** Developed internal systems to replace third-party services, saving costs.
+- **Loan Renegotiation:** Led a project for renegotiating overdue personal loans, generating significant returns.
+- **Consigned Products:** Developed new financial products for the market.
+- **Loan Refinancing:** Enabled customer loan refinancing options.
+- **Compliance Documentation:** Resolved a long-standing issue with mandatory documentation for the Central Bank of Brazil.
+
+### New Product Development
+
+- **Electronic Wallet Onboarding:** Developed and launched a successful new product in the market.
+- **Customized Onboarding for BanQi:** Led technical efforts and development, including biometric validation and fraud scoring.
+
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
