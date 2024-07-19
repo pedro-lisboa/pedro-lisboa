@@ -2,7 +2,7 @@
 
 ## I'm Pedro Lisboa
 
-Welcome to my GitHub profile! I'm a Senior Systems Analyst with a focus on fraud prevention at BMG Bank. My work involves using a variety of technologies to create secure and efficient systems. I am passionate about continuous learning and sharing my knowledge with the developer community.
+Welcome to my GitHub profile! I'm a Senior Fullstack Developer with a focus on fraud prevention at BMG Bank. My work involves using a variety of technologies to create secure and efficient systems. I am passionate about continuous learning and sharing my knowledge with the developer community.
 
 ### About Me
 
